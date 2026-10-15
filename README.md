@@ -26,9 +26,7 @@ The results and observations are presented in the Jupyter Notebook.
 
 ## 👤 Author
 
-**Your Name**
-
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**Molka Gharbi**
 
 ## 📄 License
 
